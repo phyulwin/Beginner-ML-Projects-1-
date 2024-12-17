@@ -18,7 +18,7 @@
 ### 4. Image Classifier
 - **Description:**
 - **Technologies Used:** Python
-- **Code Link:** [Image Classifier Code]()
+- **Code Link:** [Image Classifier Code](https://github.com/phyulwin/Beginner-ML-Portfolio/blob/main/projects/ImageClassifier.ipynb)
 
 ### 5. Rock-Paper-Scissors Game Predictor
 - **Description:**
