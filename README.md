@@ -16,11 +16,11 @@
 - **Code Link:** [Movie Recommendation System Code]()
 
 ### 4. Image Classifier 📸
-- **Description:**
+- **Description:** A image classification model that classifies different images of puppies and frogs.
 - **Technologies Used:** Python, TensorFlow, Keras, OpenCV, NumPy, Matplotlib
 - **Code Link:** [Image Classifier Code](https://github.com/phyulwin/Beginner-ML-Portfolio/blob/main/projects/ImageClassifier.ipynb)
 
 ### 5. Rock-Paper-Scissors Game Predictor ✂️
-- **Description:**
-- **Technologies Used:** Python
+- **Description:** A model that recognizes a random pattern of Rock-Paper-Scissors and predicts the next move.
+- **Technologies Used:** Python, Tensorflow, Keras, Scikit-learn
 - **Code Link:** [Rock-Paper-Scissors Game Predictor Code]()
