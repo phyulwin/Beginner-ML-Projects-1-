@@ -23,4 +23,4 @@
 ### 5. Rock-Paper-Scissors Game Predictor ✂️
 - **Description:** A model that recognizes a random pattern of Rock-Paper-Scissors and predicts the next move.
 - **Technologies Used:** Python, Tensorflow, Keras, Scikit-learn
-- **Code Link:** [Rock-Paper-Scissors Game Predictor Code]()
+- **Code Link:** [Rock-Paper-Scissors Game Predictor Code](https://github.com/phyulwin/Beginner-ML-Portfolio/blob/main/projects/RPS.ipynb)
