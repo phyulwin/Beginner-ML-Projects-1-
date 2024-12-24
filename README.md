@@ -11,8 +11,8 @@
 - **Code Link:** [Spam Email Classifier Code](https://github.com/phyulwin/Beginner-ML-Portfolio/blob/main/projects/SMD.ipynb)
 
 ### 3. Movie Recommendation System 🎬
-- **Description:** 
-- **Technologies Used:** Python
+- **Description:** A recommendation system that suggests movies based on user preferences.
+- **Technologies Used:** Python, Pandas, NumPy, Faiss, Requests
 - **Code Link:** [Movie Recommendation System Code](https://github.com/phyulwin/Beginner-ML-Portfolio/blob/main/projects/MRS.ipynb)
 
 ### 4. Image Classifier 📸
