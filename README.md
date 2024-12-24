@@ -13,7 +13,7 @@
 ### 3. Movie Recommendation System 🎬
 - **Description:** 
 - **Technologies Used:** Python
-- **Code Link:** [Movie Recommendation System Code]()
+- **Code Link:** [Movie Recommendation System Code](https://github.com/phyulwin/Beginner-ML-Portfolio/blob/main/projects/MRS.ipynb)
 
 ### 4. Image Classifier 📸
 - **Description:** A image classification model that classifies different images of puppies and frogs.
