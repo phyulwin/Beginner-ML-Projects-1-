@@ -1,4 +1,4 @@
-# Beginner-ML-Portfolio
+# Beginner-ML-Projects
 
 ### 1. Handwritten Digit Recognition 📝
 - **Description:** A model trained to recognize handwritten digits (0-9) with high accuracy.
